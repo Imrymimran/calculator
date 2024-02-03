@@ -1,0 +1,1 @@
+var displayInput = document.getElementById
